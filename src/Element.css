@@ -1,0 +1,9 @@
+.logo {
+  width: min-content;
+
+  border: 1px dashed red;
+}
+.logo img {
+  width: 220px;
+  height: 300px;
+}
